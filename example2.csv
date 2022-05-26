@@ -1,0 +1,12 @@
+Activity,Duration,Pre
+A,5,-
+B,2,-
+C,3,-
+D,3,A;B
+E,2,B
+F,5,C
+G,4,A;B;C
+H,1,F
+I,5,E
+J,2,E;F
+K,5,J
